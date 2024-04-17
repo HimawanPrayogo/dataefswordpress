@@ -1,0 +1,4 @@
+#
+UUID=73da0a34-18b6-41e1-a4b3-e3bd12671fb1     /           xfs    defaults,noatime  1   1
+UUID=7328-F59E        /boot/efi       vfat    defaults,noatime,uid=0,gid=0,umask=0077,shortname=winnt,x-systemd.automount 0 2
+fs-04b3869dff32906fb.efs.us-east-1.amazonaws.com:/ /var/www/html  nfs  defaults,_netdev  0  0
